@@ -1,7 +1,7 @@
 {
   "id": "move-completed-tasks-down",
   "name": "Move Completed Tasks Down",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Automatically moves completed tasks to the bottom of their list, 10 seconds after completion.",
   "author": "Task Mover",
