@@ -1,6 +1,6 @@
 {
   "name": "obsidian-move-completed-tasks-down",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Obsidian plugin that moves completed tasks to the bottom of their list",
   "main": "main.js",
   "scripts": {
